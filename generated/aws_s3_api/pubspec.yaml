@@ -12,7 +12,7 @@ environment:
 dependencies:
   shared_aws_api:
     git:
-      url: https://github.com/yangsangho/aws_client.git
+      url: https://github.com/gokumdul/aws_client.git
       path: shared_aws_api
       ref: edit/test
 
